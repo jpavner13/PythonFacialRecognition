@@ -1,0 +1,3 @@
+([('driver',
+   '/Users/pierce/Documents/Workspace/pythonCode/PythonFacialRecognition/dist/driver',
+   'EXECUTABLE')],)
